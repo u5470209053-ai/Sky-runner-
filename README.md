@@ -1,2 +1,2 @@
 # Sky-runner-
-Jeu d’os
+Jeu d’obstacle
